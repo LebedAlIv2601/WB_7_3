@@ -4,7 +4,7 @@ object Environment {
 
     const val BASE_API = "https://api.thecatapi.com/v1/"
 
-    const val GET_RANDOM_CAT_QUERY = "images/search"
+    const val GET_RANDOM_CATS_QUERY = "images/search"
 
     const val API_KEY_LABEL = "x-api-key"
 
@@ -12,7 +12,7 @@ object Environment {
 
     const val FAVOURITE_CAT_QUERY = "favourites"
 
-    const val SUB_ID = "7"
+    const val SUB_ID = "77"
 
     var IS_DATA_CHANGED = false
 
